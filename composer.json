@@ -1,6 +1,6 @@
 {
-    "name": "robinson2/test2",
-    "description": "Just a test",
+    "name": "robinson2/vendorNameRegistrationRobinson2",
+    "description": "For registration of vendor name on Packagist",
     "license": ["GPL-2.0-or-later"],
     "require": {
         "php": ">=7.4"
