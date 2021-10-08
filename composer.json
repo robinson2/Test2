@@ -1,5 +1,5 @@
 {
-    "name": "robinson2/vendorNameRegistrationRobinson2",
+    "name": "robinson2/vendornameregistrationrobinson2",
     "description": "For registration of vendor name on Packagist",
     "license": ["GPL-2.0-or-later"],
     "require": {
